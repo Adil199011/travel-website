@@ -1,0 +1,234 @@
+.logo{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo a{
+    text-decoration: none;
+    background-color: red;
+    margin: 20px;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+nav{
+    background-color: rgb(9, 163, 224);
+    width: 100%;
+    
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: left;
+    flex-wrap: wrap;
+
+}
+
+nav ul li{
+    margin: 10px;
+    padding: 7px;
+    font-size: 17px;
+    font-weight: 900;  
+}
+
+ul a{
+    text-decoration: none;
+    color: white;
+}
+
+.destination h4{
+    font-size: 20px;
+    color: rgb(81, 79, 79);
+    font-weight: bold;
+}
+
+.destination h3{
+    text-align: center;
+    background-color: red;
+    color: white;
+    font-family: sans-serif;
+}
+
+
+    .high h3{
+        text-align: center;
+        background-color: red;
+        height: 25px;
+        font-family: sans-serif;
+        color: white;
+        padding: 5px;
+    }
+.high p{
+    text-align: left;
+    color: black;
+    font-size: 20px;
+    font-weight: 900;
+    font-family: sans-serif;
+
+}
+
+.high ul{
+    list-style-type:circle;
+    
+}
+
+.high ul li{
+    margin-top: 10px;
+}
+
+.dura h4{
+    font-size: 20px;
+    color: rgb(81, 79, 79);
+    font-weight: bold;
+}
+.dura h1{
+    color: white;
+    font-size: 18px;
+    background-color: black;
+    width: 60px;
+    padding: 8px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    
+}
+.dura h3{
+    color: red;
+    font-style: unset;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: underline;
+
+}
+
+.dura ul li{
+    margin: 10px;
+    font-weight: bold;
+
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+   
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.card1{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid red;
+}
+
+.card1 p{
+    color: brown;
+ font-size: 18px;
+ text-align: left;
+ margin: 5px;
+ font-family: sans-serif;
+ font-weight: 900;
+}
+
+
+
+.card{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid red;
+    
+}
+.card p{
+ color: brown;
+ font-size: 18px;
+ text-align: left;
+ margin: 5px;
+ font-family: sans-serif;
+ font-weight: 900;
+
+}
+ .card img{
+    border-radius: 5px;
+ }
+  
+    
+
+.hr h3{
+    color: red;
+    margin: 5px;
+    text-decoration: underline;
+}
+
+.hr p{
+    font-family: sans-serif;
+    margin: 5px;
+    margin-top: 2px;
+    font-weight: bold;
+    width: 100%;
+}
+.hr p::first-letter{
+    font-size: 40px;
+    color: red;
+}
+.hr1 h3{
+    color: red;
+    margin: 5px;
+    text-decoration: underline;
+}
+
+.hr1 p{
+    font-family: sans-serif;
+    margin: 5px;
+    margin-top: 2px;
+    font-weight: bold;
+    width: 100%;
+}
+
+.third h3{
+    color: red;
+
+}
+.third li{
+
+    margin: 15px;
+}
+.third h1{
+    color: red;
+    text-decoration: underline;
+}
+
+.fourth h3{
+    color:red;
+}
+
+
+.fourth p{
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.fourth li{
+    margin: 15px;
+}
+pre{
+    font-weight: bold;
+}
